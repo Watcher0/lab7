@@ -6,7 +6,6 @@ import java.io.FileNotFoundException;
 
 /**
  * Main class of the program
- * @author Vinogradov Gleb
  */
 
 public class Main {

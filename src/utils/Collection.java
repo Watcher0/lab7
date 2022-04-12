@@ -72,7 +72,7 @@ public class Collection {
 
     /**
      * Метод, возвращающий HashTable со всеми элементами коллекции
-     * @return studyGroupHashTable
+     * @return movieHashSet
      */
     public static HashSet<Movie> getMovieHashSet() {
         return movieHashSet;

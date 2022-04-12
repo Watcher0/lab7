@@ -55,7 +55,7 @@ public class UserInterface {
                 System.out.println("Параметр не вписывается в установленные рамки");
             }
             catch (IllegalArgumentException e){
-                System.out.println("Не верный формат параметра, должно быть " + command.getParameters());
+                System.out.println("Неверный формат параметра, должно быть " + command.getParameters());
             }
             catch (UsedIdException e){
                 System.out.println("происходит добавление уже существующего id");
