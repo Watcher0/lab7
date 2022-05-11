@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="094d5e17-366c-4912-b1aa-c479f2e55ca9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/artifacts/deprivedOfSleep_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deprivedOfSleep.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../output.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../script.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/AddCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/AddIfMinCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/ClearCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/CommandManger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/ExecuteScriptCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/ExitCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/HelpCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/HistoryCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/InfoCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/PrintAscendingCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/PrintDescendingCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/PrintFiendDescendingMpaaRatingCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/RemoveByIdCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/RemoveGreaterCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/SaveCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/ShowCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/commands/UpdateCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/data/Coordinates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/data/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/data/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/data/MovieGenre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/data/MpaaRating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/data/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/exceptions/CommandNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/exceptions/ExitException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/exceptions/NumberOutOfBoundsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/exceptions/UsedIdException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/exceptions/WrongAmountOfCoordinatesException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/exceptions/WrongLineSizeInFileException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/exceptions/WrongNumberOfParametersException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/CSVReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/Collection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/FieldSetterClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/UserInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/utils/ValidationClass.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="28zPLu6gjLAPXCU835W8AOiKju6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="094d5e17-366c-4912-b1aa-c479f2e55ca9" name="Changes" comment="" />
+      <created>1652216388913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652216388913</updated>
+      <workItem from="1652216390344" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

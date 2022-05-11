@@ -1,0 +1,2 @@
+Main-Class: ClientModule/MainClient
+Class-Path: MainClient.jar
